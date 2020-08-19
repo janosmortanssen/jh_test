@@ -1,2 +1,2 @@
 # jh_test
-'next=/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fjanosmortanssen%2Fjh_test&branch=master&urlpath=tree%2Fjh_test%2F'
+http://35.228.233.31/hub?next=%2Fuser-redirect%2Fgit-pull?repo%3Dhttps%253A%252F%252Fgithub.com%252Fjanosmortanssen%252Fjh_test%26branch%3Dmaster%26urlpath%3Dtree%252Fjh_test%252Fsolve_ode_py.ipynb
